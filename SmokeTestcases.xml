@@ -1,0 +1,26 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Group Test Suite"     >
+
+  <test name="Group Test"  >
+       
+   <classes>
+     <class name="com.qahackthon.hackthondemo.Login.LoginTestcases">  
+       <methods>
+          
+           <include name="launch" /> 
+        <include name="login" />
+         <include name="editProfile" />
+               
+      </methods>
+      </class>
+      
+     
+   </classes>
+     
+ 
+  </test>
+  <listeners>
+ <listener class-name="com.qahackthon.utility.RetryListener"></listener>
+ </listeners>
+
+</suite>

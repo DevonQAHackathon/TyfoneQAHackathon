@@ -1,0 +1,15 @@
+Automation Frame Work
+------------------------
+We automated Naukri.com web site
+Tools Used: Selenium
+Language: Java
+Plugin: Maven, TestNg, Extent Reports,
+Logs: Log4j
+Configuaration files
+Model used:Page object model
+
+------------------
+Launch method: We are launching URL from Config file
+in command prompt go to project location and run mvn test
+
+you can check failure tests in Failurereports in ReportsOfAutomatedtestcases folder

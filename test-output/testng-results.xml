@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14342" started-at="2017-09-09T13:39:33Z" finished-at="2017-09-09T13:39:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14342" started-at="2017-09-09T13:39:33Z" finished-at="2017-09-09T13:39:48Z">
+      <class name="com.qahackthon.hackthondemo.Login.LoginTestcases">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.qahackthon.hackthondemo.Login.LoginTestcases@1349883]" name="init" is-config="true" duration-ms="291" started-at="2017-09-09T19:09:33Z" finished-at="2017-09-09T19:09:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.qahackthon.hackthondemo.Login.LoginTestcases@1349883]" name="launch" duration-ms="4843" started-at="2017-09-09T19:09:33Z" finished-at="2017-09-09T19:09:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.qahackthon.hackthondemo.Login.LoginTestcases@1349883]" name="getResult" is-config="true" duration-ms="4" started-at="2017-09-09T19:09:38Z" finished-at="2017-09-09T19:09:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=launch status=SUCCESS method=LoginTestcases.launch()[pri:0, instance:com.qahackthon.hackthondemo.Login.LoginTestcases@1349883] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="login()[pri:1, instance:com.qahackthon.hackthondemo.Login.LoginTestcases@1349883]" name="login" duration-ms="723" started-at="2017-09-09T19:09:38Z" finished-at="2017-09-09T19:09:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.qahackthon.hackthondemo.Login.LoginTestcases@1349883]" name="getResult" is-config="true" duration-ms="0" started-at="2017-09-09T19:09:39Z" finished-at="2017-09-09T19:09:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=login status=SUCCESS method=LoginTestcases.login()[pri:1, instance:com.qahackthon.hackthondemo.Login.LoginTestcases@1349883] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="editProfile()[pri:2, instance:com.qahackthon.hackthondemo.Login.LoginTestcases@1349883]" name="editProfile" duration-ms="8743" started-at="2017-09-09T19:09:39Z" finished-at="2017-09-09T19:09:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editProfile -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.qahackthon.hackthondemo.Login.LoginTestcases@1349883]" name="getResult" is-config="true" duration-ms="0" started-at="2017-09-09T19:09:48Z" finished-at="2017-09-09T19:09:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=editProfile status=SUCCESS method=LoginTestcases.editProfile()[pri:2, instance:com.qahackthon.hackthondemo.Login.LoginTestcases@1349883] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="endreport()[pri:0, instance:com.qahackthon.hackthondemo.Login.LoginTestcases@1349883]" name="endreport" is-config="true" duration-ms="599" started-at="2017-09-09T19:09:48Z" finished-at="2017-09-09T19:09:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endreport -->
+      </class> <!-- com.qahackthon.hackthondemo.Login.LoginTestcases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

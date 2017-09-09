@@ -1,0 +1,27 @@
+09/09/2017 19:21:49 devpinoyLogger Got driver to launch
+09/09/2017 19:21:49 devpinoyLogger Inside init method in the report generation class
+09/09/2017 19:21:49 devpinoyLogger ------------------------------------------------------
+09/09/2017 19:21:49 devpinoyLogger launch test case started
+09/09/2017 19:21:49 devpinoyLogger Executing launch test method
+09/09/2017 19:21:50 devpinoyLogger Getting object ids from config.properties
+09/09/2017 19:21:54 devpinoyLogger The name of the testcase passed is :launch
+09/09/2017 19:21:54 devpinoyLogger ------------------------------------------------------
+09/09/2017 19:21:54 devpinoyLogger login test case started
+09/09/2017 19:21:54 devpinoyLogger Executing login test method
+09/09/2017 19:21:54 devpinoyLogger Getting object ids from config.properties
+09/09/2017 19:21:54 devpinoyLogger Getting object ids from config.properties
+09/09/2017 19:21:54 devpinoyLogger Getting object ids from config.properties
+09/09/2017 19:21:54 devpinoyLogger Getting object ids from config.properties
+09/09/2017 19:21:54 devpinoyLogger Getting object ids from config.properties
+09/09/2017 19:21:54 devpinoyLogger Getting object ids from config.properties
+09/09/2017 19:21:54 devpinoyLogger Getting object ids from config.properties
+09/09/2017 19:21:54 devpinoyLogger The name of the testcase passed is :login
+09/09/2017 19:21:54 devpinoyLogger ------------------------------------------------------
+09/09/2017 19:21:54 devpinoyLogger editProfile test case started
+09/09/2017 19:21:54 devpinoyLogger Executing login test method
+09/09/2017 19:21:54 devpinoyLogger Getting object ids from config.properties
+09/09/2017 19:22:00 devpinoyLogger Getting object ids from config.properties
+09/09/2017 19:22:01 devpinoyLogger Getting object ids from config.properties
+09/09/2017 19:22:02 devpinoyLogger Getting object ids from config.properties
+09/09/2017 19:22:02 devpinoyLogger The name of the testcase passed is :editProfile
+09/09/2017 19:22:02 devpinoyLogger Ending Extent report
